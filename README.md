@@ -1,2 +1,2 @@
-# grzegorz-grzeda.github.io
-G2Labs Grzegorz Grzęda blog
+# Grzegorz Grzęda
+Welcome to my blog

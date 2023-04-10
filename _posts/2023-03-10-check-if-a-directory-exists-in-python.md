@@ -5,7 +5,7 @@ date: 2023-03-10 07:00:00 -0000
 categories: code python
 ---
 
-```
+```python
 import os
 
 # Specify path

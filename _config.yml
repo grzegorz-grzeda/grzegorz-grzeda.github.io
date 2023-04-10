@@ -2,3 +2,7 @@ theme: minima
 
 minima:
   skin: dark
+
+author:
+  name: Grzegorz Grzęda
+  email: grzegorz.grzeda@g2labs.pl

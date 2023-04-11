@@ -1,7 +1,8 @@
 title: Grzegorz Grzęda
-author: Grzegorz Grzęda
+email: grzegorz.grzeda@g2labs.pl
+description: >- # this means to ignore newlines until "baseurl:"
+  I write in embedded C, python and whatever you need :)
+twitter_username: GrzegorzGrzeda
+github_username:  grzegorz-grzeda
 
 theme: minima
-
-minima:
-  skin: dark

@@ -2,7 +2,7 @@
 layout: post
 title: "VT100 shell coloring for python logging"
 date: 2023-03-11 07:00:00 -0000
-categories: code python
+categories: python
 ---
 
 ```python

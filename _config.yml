@@ -7,5 +7,7 @@ github_username:  grzegorz-grzeda
 
 theme: minima
 
+google_analytics: G-M57Y85S3P3
+
 include:
  - _pages

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple command line interfacce library"
+title: "Simple command line interface library"
 date: 2023-03-14 07:00:00 -0000
 categories: c
 ---

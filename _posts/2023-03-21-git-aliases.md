@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My git aliases"
-date: 2023-03-32 07:00:00 -0000
+date: 2023-03-21 07:00:00 -0000
 categories: git
 ---
 

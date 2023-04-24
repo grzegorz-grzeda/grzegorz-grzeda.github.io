@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello world"
+title: "Solid principles"
 date: 2023-03-15 07:00:00 -0000
 categories: general
 ---

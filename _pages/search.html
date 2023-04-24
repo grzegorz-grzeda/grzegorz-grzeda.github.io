@@ -5,9 +5,10 @@ title: Search
 ---
 
 <script src="/assets/js/w3.js"></script>
+<link rel="stylesheet" href="/assets/css/w3.css">
 
 <div id="archives">
-  <input oninput="w3.filterHTML('#id01', 'h4', this.value)">
+  <input class="w3-input" type="text" placeholder="Type what you want to find" oninput="w3.filterHTML('#id01', 'article', this.value)">
   <div id="id01">
     {% for post in site.posts %}
     <article class="archive-item">

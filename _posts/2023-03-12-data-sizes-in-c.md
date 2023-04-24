@@ -2,7 +2,7 @@
 layout: post
 title: "Data sizes in C"
 date: 2023-03-12 07:00:00 -0000
-categories: general
+categories: c
 ---
 In a strongly-typed language family of `C`, the Coder need to know precisely,
 how much space her/his data actually occupy in the memory. This is especially important in 

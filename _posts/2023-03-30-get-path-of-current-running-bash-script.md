@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get directory of currently run bash script"
-date: 2023-03-12 07:00:00 -0000
+date: 2023-03-30 07:00:00 -0000
 categories: bash
 ---
 

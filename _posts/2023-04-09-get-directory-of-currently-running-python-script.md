@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get directory of currently run python script"
-date: 2023-03-09 07:00:00 -0000
+date: 2023-04-09 07:00:00 -0000
 categories: python
 ---
 

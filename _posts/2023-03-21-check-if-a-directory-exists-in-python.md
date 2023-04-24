@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Check if a directory exists in python"
-date: 2023-03-10 07:00:00 -0000
+date: 2023-03-21 07:00:00 -0000
 categories: python
 ---
 

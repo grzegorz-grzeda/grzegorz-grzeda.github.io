@@ -2,7 +2,7 @@
 layout: post
 title: "Solid principles"
 date: 2023-03-15 07:00:00 -0000
-categories: general
+categories: solid
 ---
 There is a set of principles how to organize code in a project. It's more a moral conduct than a recipe. They were introduced by Robert Martin in the year 2000. These principles are platform/language agnostic, so they apply anywhere, where there is code.
 

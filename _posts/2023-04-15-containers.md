@@ -11,4 +11,4 @@ embedded projects, were we:
 - want to execute fast,
 - do all the initialization/registering at the beginning of code execution.
 
-Check out my [flow library](https://github.com/grzegorz-grzeda/virtual-machine).
+Check out my [containers library](https://github.com/grzegorz-grzeda/containers).

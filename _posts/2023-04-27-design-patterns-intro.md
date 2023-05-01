@@ -135,7 +135,7 @@ That said, now we can discuss three canonical types of Design Patterns
 	1. `Object Pool` (Creational DP) - a pool of reusable components, ready to grab, without
 	the hassle of initialization and maintenance
 	
-	2. [`Null object`](/design/patterns/2023/04/30/null-object-pattern.html) (Behavioral DP) - A fake implementation of an interface, in case when
+	2. [`Null object`](/design%20patterns/2023/04/30/null-object-pattern.html) (Behavioral DP) - A fake implementation of an interface, in case when
 	the given functionality is not needed
 
 I will discuss each with you in the future. Don't worry if you don't understand everything

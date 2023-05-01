@@ -2,7 +2,7 @@
 layout: post
 title: "NULL object pattern"
 date: 2023-04-30 07:00:00 -0000
-categories: "design patterns"
+categories: ["design patterns"]
 ---
 When you want to remain a consistent structure throughout your application, you
 may run into a problem. How to introduce a fake or void functionality? Why would you

@@ -2,7 +2,7 @@
 layout: post
 title: "Visitor design pattern"
 date: 2023-05-21 07:00:00 -0000
-categories: "design patterns"
+categories: ["design patterns"]
 ---
 
 When we have a collection of concrete classes and we want to perform some operations, we usually need to manually invoke each method 'by hand'. Usually we create a common interface and place methods to be implemented. Them we can invoke those methods in a more generic fashion. 

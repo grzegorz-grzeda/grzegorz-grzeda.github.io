@@ -2,7 +2,7 @@
 layout: post
 title: "Template Method design pattern"
 date: 2023-05-18 07:00:00 -0000
-categories: "design patterns"
+categories: ["design patterns"]
 ---
 
 Suppose that you want to  create an architecture for your simple computing software. 

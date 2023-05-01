@@ -2,7 +2,7 @@
 layout: post
 title: "Builder pattern"
 date: 2023-05-03 07:00:00 -0000
-categories: "design patterns"
+categories: ["design patterns"]
 ---
 When building objects, we might think that an [Abstract Factory](/posts/abstract-factory-pattern/) will perform all needed operations to create one. And so it does. But Abstract Factory is great at constructing simple components. When it comes to composites, this approach may be to simple and the building process to complicated.
 When we want to dynamically build objects on demand the worse it gets. For that particular reason the Builder Design Pattern has been invented.

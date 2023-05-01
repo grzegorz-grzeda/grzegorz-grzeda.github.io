@@ -2,7 +2,7 @@
 layout: post
 title: "Factory Method design pattern"
 date: 2023-05-12 07:00:00 -0000
-categories: "design patterns"
+categories: ["design patterns"]
 ---
 
 The `Factory Method` is just an implementation of the [`Template Method`](/posts/template-method-pattern/) but for building objects.

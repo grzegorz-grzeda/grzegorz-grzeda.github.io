@@ -2,7 +2,7 @@
 layout: post
 title: "Observer design pattern"
 date: 2023-05-15 07:00:00 -0000
-categories: "design patterns"
+categories: ["design patterns"]
 ---
 
 One of the most commonly (and usually subconsciously) used pattern. Present especially in 

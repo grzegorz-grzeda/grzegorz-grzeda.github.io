@@ -2,7 +2,7 @@
 layout: post
 title: "Composite design pattern"
 date: 2023-05-09 07:00:00 -0000
-categories: "design patterns"
+categories: ["design patterns"]
 ---
 In applications, we have a desire to aggregate objects into collections. This way we have a coherent container where we can organize those objects. But when it comes to easy access to those objects we often have to write query mechanisms. What if there would be a way to write the container in a way so that i behaves just like the objects it holds?
 

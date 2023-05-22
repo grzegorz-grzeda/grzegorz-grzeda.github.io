@@ -14,6 +14,7 @@ Here, the parameter c is an integer that represents the character to be converte
 
 The `tolower()` function is often used in applications that involve string manipulation, such as text processing, data cleaning, and data validation. It is also useful for case-insensitive searches and comparisons.
 
+# Examples
 Let's take a look at a few examples of how the `tolower()` function can be used:
 
 Example 1: Converting a string to lowercase
@@ -81,3 +82,18 @@ The two strings are equal.
 ```
 
 The `tolower()` function is a simple yet powerful tool that is essential for many applications that involve string manipulation. It is important to note that the `tolower()` function only converts uppercase letters to lowercase and does not affect other characters. Additionally, the function does not modify the input character if it is already lowercase or not an uppercase letter.
+
+# Possible implementation
+
+```c
+#include <ctype.h> // isupper
+
+int tolower(int chr)
+{
+    if (isupper(chr)) {
+        return (chr + ('a' - 'A'));
+    } else {
+        return chr;
+    }
+}
+```
